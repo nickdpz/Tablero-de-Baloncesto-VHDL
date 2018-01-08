@@ -1,2 +1,4 @@
-# Tablero-de-Baloncesto-VHDL
+﻿# Tablero-de-Baloncesto-VHDL
 El tablero de basketball se implemento en VHDL en alto nivel por medio de una matina de estados ademas tiene el registro de los puntos de cada equipo, del cuarto de partido, de los minutos y decimas de segundos restantes para que termine cada cuarto. Además, debe tiene contar 10 segundos para que empiece el siguiente cuarto. La informacion se visualiza en los leds de una FPGA , ademas es encesario usar los swichts o interrupotores de la FPGA para registrar el cambio de la posecion del balon. 
+
+El informe tiene informacion detallada del diseño y ademas simulaciones explicadas para comprovar su funcionamiento.
